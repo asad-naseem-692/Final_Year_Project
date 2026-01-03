@@ -135,7 +135,7 @@ This project fulfills the requirements of a **University Final Year Project** by
 
 ## 👨‍🎓 Student Information
 
-**Name:** Asad Naseem
+**Name:** Asad Naseem/
 **Degree:** BS Software Engineering  
 **University:** ( The Islamia University of Bhawalpur )
 
