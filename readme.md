@@ -96,7 +96,7 @@ cd Final_Year_Project
 npm install
 ```
 
-4. **Create a ********\*\***********.env********\*\*\*\********* file\*\* in the root directory and add the following:
+4. **Create a .env file in the root directory and add the following**:
 
 ```
 DATABASE_URL=your_mongodb_url
@@ -135,8 +135,8 @@ This project fulfills the requirements of a **University Final Year Project** by
 
 ## 👨‍🎓 Student Information
 
-**Name:** Asad Naseem \
-**Degree:** BS Software Engineering /
+**Name:** Asad Naseem
+**Degree:** BS Software Engineering  
 **University:** ( The Islamia University of Bhawalpur )
 
 ---
